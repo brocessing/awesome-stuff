@@ -1,6 +1,6 @@
 # bro-job
 
-> :muscle: for your :computer:
+> :eggplant::kiss: for your :computer:
 
 *Root repository of the [Brocessing organization](https://github.com/brocessing/)*
 
