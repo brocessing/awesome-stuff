@@ -4,9 +4,11 @@
 
 ## Table of Contents
 
-- 
+- [Apps](#apps)
+- [Chrome Extensions](#chrome-extensions)
+- [Games](#games)
 - [Dev](#dev)
-- [Command Line Tools & Utilities](#)
+- [Command Line Tools & Utilities](command-line-tools--utilities)
 - [OSX misc utilities](#OSX-misc-utilities)
 
 ---
