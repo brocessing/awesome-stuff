@@ -1,5 +1,3 @@
-#Awesome-stuff
-
 *A curated list of apps, tools and links for OSX*
 
 ## Table of Contents
