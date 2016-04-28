@@ -25,6 +25,6 @@
 
 ## OSX misc utilities
 
-- Flux (https://justgetflux.com/) : makes your computer look like your indoor lights.
-- Caffeine (http://lightheadsw.com/caffeine/) : prevent your Mac from automatically going to sleep, dimming the screen or starting screen savers
-- Unclutter (http://unclutterapp.com/) : a new handy place on your desktop for storing notes, files and pasteboard clips.
+- [Flux](https://justgetflux.com/) : makes your computer look like your indoor lights.
+- [Caffeine](http://lightheadsw.com/caffeine/) : prevent your Mac from automatically going to sleep, dimming the screen or starting screen savers
+- [Unclutter](http://unclutterapp.com/) : a new handy place on your desktop for storing notes, files and pasteboard clips.
