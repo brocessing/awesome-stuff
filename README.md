@@ -7,3 +7,7 @@
 ## table of content
 
 - [./apps.md](apps.md) : a curated list of apps, tools and links for OSX
+
+## licence
+
+`GNU GENERAL PUBLIC LICENSE Version 3, June 2007`
