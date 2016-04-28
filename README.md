@@ -1,3 +1,9 @@
-# awesome-stuff
+# bro-job
 
-:muscle: The ultimate list of awesome stuff, because you're awesome too.
+> :muscle: for your :computer:
+
+*Root repository of the [Brocessing organization](https://github.com/brocessing/)*
+
+## table of content
+
+- [./apps.md](apps.md) : a curated list of apps, tools and links for OSX
