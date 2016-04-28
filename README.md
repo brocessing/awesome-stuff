@@ -19,7 +19,7 @@
 
 ## Games
 
-## Dev 
+## Dev
 
 ## Command Line Tools & Utilities
 
