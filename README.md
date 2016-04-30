@@ -7,6 +7,7 @@
 ## table of content
 
 - [./apps.md](apps.md) : a curated list of apps, tools and links for OSX
+- [./alfred_workflows](./alfred_workflows) : a curated list of [Alfred](https://www.alfredapp.com/) workflows
 
 ## licence
 
