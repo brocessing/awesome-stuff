@@ -8,7 +8,7 @@
 
 ## custom : 
 
-- [Shits Happens](./shithappens.workflow) : copy & paste `¯\_(ツ)_/¯`
+- [Shits Happens](./shithappens.alfredworkflow) : copy & paste `¯\_(ツ)_/¯`
 
 ## licence
 
