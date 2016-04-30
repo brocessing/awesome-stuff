@@ -1,6 +1,6 @@
 # alfred workflows
 
-*Repository for various [Alfred](https://www.alfredapp.com/)'s workflows*
+*Repository for various [Alfred](https://www.alfredapp.com/) workflows*
 
 ## online : 
 
@@ -8,7 +8,7 @@
 
 ## custom : 
 
-- [Shits Happens]() : copy & paste `¯\_(ツ)_/¯`
+- [Shits Happens](shithappens.workflow) : copy & paste `¯\_(ツ)_/¯`
 
 ## licence
 
