@@ -19,7 +19,36 @@
 
 ## Dev
 
+- [Sublime Text](http://www.sublimetext.com/) : just a fucking text editor, but with protein shakes.
+
+### Sublime Text 3 Packages
+Don't forget to use [Package Control](https://packagecontrol.io/), dummy!
+
+- [AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
+- [Alignment](https://github.com/wbond/sublime_alignment)
+- [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete)
+- [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
+- [ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8)
+- [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
+- [Emmet](http://emmet.io/)
+- [GitGutter](https://github.com/jisaacks/GitGutter)
+- [Monokai - Spacegray](https://github.com/pyoio/monokai-spacegray)
+- [Nodejs](https://github.com/tanepiper/SublimeText-Nodejs)
+- [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
+- [Standard Format](https://packagecontrol.io/packages/StandardFormat)
+- [Theme - Spacegray](http://kkga.github.io/spacegray/)
+- [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
+
 ## Command Line Tools & Utilities
+
+- [youtube-dl](http://rg3.github.io/youtube-dl/): easily download videos from video platforms.
+- [localtunnel](https://github.com/localtunnel/localtunnel): expose your localhost for testing or sharing.
+- [brightness](https://github.com/kevva/brightness-cli): change your screen brightness.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer): search and install Google Fonts.
+- [thefuck](https://github.com/nvbn/thefuck): corrects your previous command.
+- [z](https://github.com/rupa/z): get where the fuck you want.
+- [speed-test](https://github.com/sindresorhus/speed-test): test your internet connection speed.
+- [ipinfo-cli](https://github.com/beatfreaker/ipinfo-cli): get your ip info.
 
 ## OSX misc utilities
 
