@@ -6,6 +6,7 @@
 - [Chrome Extensions](#chrome-extensions)
 - [Games](#games)
 - [Dev](#dev)
+    - [Sublime Text 3 Packages](#sublime-text-3-packages)
 - [Command Line Tools & Utilities](command-line-tools--utilities)
 - [OSX misc utilities](#OSX-misc-utilities)
 
@@ -19,7 +20,9 @@
 
 ## Dev
 
-- [Sublime Text](http://www.sublimetext.com/) : just a fucking text editor, but with protein shakes.
+- [Dash](https://kapeli.com/dash): offline access to a shit-tons of api documentations.
+- [iTerm2](https://www.iterm2.com/version3.html): a crazy cool terminal emulator. 
+- [Sublime Text](http://www.sublimetext.com/): just a fucking text editor, but with protein shakes.
 
 ### Sublime Text 3 Packages
 Don't forget to use [Package Control](https://packagecontrol.io/), dummy!
@@ -28,6 +31,7 @@ Don't forget to use [Package Control](https://packagecontrol.io/), dummy!
 - [Alignment](https://github.com/wbond/sublime_alignment)
 - [All Autocomplete](https://github.com/alienhard/SublimeAllAutocomplete)
 - [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter)
+- [ColorHighlighter](https://github.com/Monnoroch/ColorHighlighter)
 - [ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8)
 - [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
 - [Emmet](http://emmet.io/)
@@ -36,6 +40,8 @@ Don't forget to use [Package Control](https://packagecontrol.io/), dummy!
 - [Nodejs](https://github.com/tanepiper/SublimeText-Nodejs)
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 - [Standard Format](https://packagecontrol.io/packages/StandardFormat)
+- [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+- [Theme - Material Design](https://github.com/equinusocio/material-theme)
 - [Theme - Spacegray](http://kkga.github.io/spacegray/)
 - [TrailingSpaces](https://github.com/SublimeText/TrailingSpaces)
 
