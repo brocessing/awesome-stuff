@@ -16,6 +16,10 @@
 
 ## Chrome Extensions
 
+- [SimpleExtManager](https://chrome.google.com/webstore/detail/simpleextmanager/kniehgiejgnnpgojkdhhjbgbllnfkfdk) : a simple menu to enable, disable and access options of extensions.
+- [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) : provides keyboard shortcuts for navigation and control in the spirit of **Vim**.
+- [Humble New Tab Page](https://chrome.google.com/webstore/detail/humble-new-tab-page/mfgdmpfihlmdekaclngibpjhdebndhdj) : redesigned new tab page featuring your bookmarks, apps, most visited, recently closed, and weather in a custom layout.
+
 ## Games
 
 ## Dev
