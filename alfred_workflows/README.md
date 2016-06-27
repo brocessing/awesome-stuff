@@ -6,6 +6,7 @@
 
 - [Process Killer](https://github.com/ngreenstein/alfred-process-killer) : easily kill process
 - [Open in Safari](http://www.alfredforum.com/topic/1875-open-current-safari-tab-in-chrome-improved/) : open the current Chrome tab in Safari
+- [Random Choice](http://www.packal.org/workflow/random-choice) : feeling indecisive? Let Alfred decide. Roll a dice, choose between words, get a random number, flip a coin, etc...
 
 ## custom :
 
