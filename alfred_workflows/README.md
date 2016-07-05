@@ -10,7 +10,8 @@
 
 ## custom :
 
-- [Shits Happens](./shithappens.alfredworkflow) : copy & paste `¯\_(ツ)_/¯`
+- [Shit Happens](./shithappens.alfredworkflow) : copy & paste `¯\_(ツ)_/¯`
+- [Lenny](./lenny.alfredworkflow) : copy & paste `( ͡° ͜ʖ ͡°)`
 - [Timestamp](./timestamp.alfredworkflow) : prefix any selected files with the current date (`yyyy-mm-dd`)
 - [Dig It!](./digit.alfredworkflow) : Rip mp3 from the current youtube tab opened on Chrome
 
