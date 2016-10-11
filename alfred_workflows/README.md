@@ -17,5 +17,4 @@
 - [Dig It!](./digit.alfredworkflow) : Rip mp3 from the current youtube tab opened on Chrome
 
 ## licence
-
-`GNU GENERAL PUBLIC LICENSE Version 3, June 2007`
+MIT.
